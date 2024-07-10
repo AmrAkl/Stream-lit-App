@@ -12,10 +12,12 @@ Project is created with:
 * Ament library version: 999
 	
 ## Setup
+#### Setup enviroment
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+pip install streamlit
+pip install torch torchvision
+pip install pillow
+pip install transformers
 ```
