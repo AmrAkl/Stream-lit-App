@@ -24,3 +24,6 @@ pip install transformers
 download and install the code attached to the repo
 ### Running the Application
 Save the script as app.py and run the Streamlit app using:
+```
+streamlit run app.py
+```
